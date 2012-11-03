@@ -1,9 +1,6 @@
 [submodule "web/static/assets"]
 	path = web/static/assets
 	url = git@github.com:nathanielks/assets.git
-[submodule "web/wordpress"]
-	path = web/wordpress
-	url = git://github.com/WordPress/WordPress.git
 [submodule "web/theme"]
 	path = web/theme
 	url = git@github.com:nathanielks/Current-Theme.git
