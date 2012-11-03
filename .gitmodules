@@ -1,9 +1,9 @@
 [submodule "web/static/assets"]
 	path = web/static/assets
-	url = https://github.com/nathanielks/assets.git
+	url = git@github.com:nathanielks/assets.git
 [submodule "web/theme"]
 	path = web/theme
-	url = https://github.com/nathanielks/Current-Theme.git
+	url = git@github.com:nathanielks/Current-Theme.git
 [submodule "deploy"]
 	path = deploy
-	url = https://github.com/nathanielks/Wordpress-Capistrano-Deploy.git
+	url = git@github.com:nathanielks/Wordpress-Capistrano-Deploy.git
